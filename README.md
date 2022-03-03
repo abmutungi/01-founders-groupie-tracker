@@ -13,3 +13,7 @@ This project introduced me to :
 - HTML.
 - Event creation and display.
 - Client-server.
+
+## Authors:
+
+[Arnold Mutungi](https://github.com/abmutungi) & [Yonas Million](https://git.learn.01founders.co/nsym_coding)
